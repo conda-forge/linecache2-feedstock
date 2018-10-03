@@ -23,7 +23,7 @@ requirements:
 
 test:
   imports:
-    - {{ name }}
+    - linecache2
 
 about:
   home: https://github.com/testing-cabal/linecache2
